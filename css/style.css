@@ -113,7 +113,7 @@ h2{
 .ppj{
     font-size: 8rem;
     position:absolute;
-    height: 925px;
+    height: 920px;
 }
 
 
@@ -154,26 +154,34 @@ h2{
 
 .git{
     display: flex;
-    flex-direction: column;
-    gap: 50px;
+    flex-direction:column;
+    gap: -20px;
     align-items: center;
     margin: 10rem auto;
+    font-size: 4rem;
 }
 
 .text4{
-    margin:10rem auto;
+    margin:7rem auto;
 
 }
 
+
+
 #Social_Media{
     margin-bottom: 20rem;
- 
 }
 
 html {
   scroll-behavior: smooth;
 }
 
+
+.socialmedia{
+    align-items: flex-start;
+    display: flex;
+    margin-bottom: 5rem;
+}
 
 
 
