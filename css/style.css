@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #061E29;
+}
+
+nav{
+    display: flex;
+    background-color: #061E29;
+    width: 100%;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    color: white;
+}
+
+ul{
+    list-style: none;
+    
+}
+
+li{
+    cursor: pointer;
+    font-size: 2rem;
+    display: inline-block;
+    margin: 2rem;
+}
+
+section{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 5rem;
+}
+
+.container1{
+    margin: 0 20px;
+    max-width: 1200px;
+    padding-right: 20px;
+}
+
+.container2{
+    margin: 0 20px;
+    max-width: 1200px;
+    font-size: 5rem;
+}
+
+.text1{
+    font-size: 3.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-right: 2rem;
+}
+
+.text2{
+    font-size: 2rem;
+}
+
+.about{
+    background-color: #1D546D;
+    padding: auto;
+}
+
+.contact{
+    background-color: #5F9598;
+    display: flex;
+    align-items: center;
+}
+
+.socialmedia{
+    background-color: #00B7B5;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+.container3{
+    margin: 0 5px;
+
+}
+
+.text3{
+    font-size: 2rem;
+    padding-right: 3rem;
+    padding-left: 3rem;
+    align-items: center;
+}
+
+
+h2{
+    font-size: 10rem;
+}
+
+
+.pj{
+    background-color: #5F9598;
+    display: flex;
+   
+}
+
+.ppj{
+    font-size: 8rem;
+    position:absolute;
+    height: 925px;
+}
+
+
+.tel{
+    font-size: 3rem;
+    align-items: flex-start;
+    height: -40px;
+    
+}
+
+.nyx{
+    max-height: auto;
+    max-width: 400px;
+    display: flex;
+    align-items: center;
+    margin: 15rem;
+}
+
+.alias{
+    font-size: 4rem;
+    align-items: flex-end;
+}
+
+
+.pos{
+    max-height: auto;
+    max-width: 400px;
+    display: flex;
+    align-items: center;
+}
+
+.doc{
+    max-height: auto;
+    max-width: 400px;
+    display: flex;
+    align-items: center;
+}
+
+.git{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    margin: 10rem auto;
+}
+
+.text4{
+    margin:10rem auto;
+
+}
+
+#Social_Media{
+    margin-bottom: 20rem;
+ 
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+
+
